@@ -1,0 +1,6 @@
+framework module Pods______ {
+  umbrella header "Pods-随机树状图-umbrella.h"
+
+  export *
+  module * { export * }
+}
